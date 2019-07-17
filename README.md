@@ -8,4 +8,4 @@ List of Minions
 | AMT  | Martin Unold / Florian Thiery (mainzed)  | 2019  | avaScript library for modelling and reasoning of vague RDF graph data  | yes  | http://academic-meta-tool.xyz/ | prototype | https://github.com/mainzed/academicmetatool-viewer |
 | Alligator  | Florian Thiery / Allard Mees (RGZM)  | 2019  | A Web tool for converting CAs with dating information to relative time intervals as RDF | yes  | https://java-dev.rgzm.de/webapp_alligator/ | prototype | https://github.com/RGZM/alligator |
 | Bonify | n/a | 2018 | digital tools | yes | https://www.digitalbones.eu/ | - | - |
-| Heurist | Ian Johnson | database | yes | http://heuristnetwork.org/ | - | - | 
+| Heurist | Ian Johnson | 2019 | database | yes | http://heuristnetwork.org/ | - | - | 
