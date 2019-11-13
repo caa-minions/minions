@@ -51,3 +51,17 @@ minion:KPREECXS rset:link <http://plugins.qgis.org/plugins/profileAAR/>.
 minion:KPREECXS rset:link <http://doi.org/10.5281/zenodo.3234836>.
 minion:KPREECXS rset:toolState rset:published.
 minion:KPREECXS rset:active 'true'.
+
+# Text mining minion
+minion:QSEWQB2W a rset:Tool .
+minion:QSEWQB2W a rset:LittleMinion .
+minion:QSEWQB2W owl:sameAs wd:Q74824570.
+minion:QSEWQB2W rset:name 'Text mining minion'.
+minion:QSEWQB2W rset:wikidataid 'Q74824570'.
+minion:QSEWQB2W rset:description 'Text mining tools to search archaelogical reports'.
+minion:QSEWQB2W rset:author 'Ronald Visser'.
+minion:QSEWQB2W rset:gitrepository <https://github.com/RonaldVisser/Mining_Archaeological_Reports>.
+minion:QSEWQB2W rset:dateOfEntry '2019-11-13 14:51:13'.
+minion:QSEWQB2W rset:link <https://github.com/RonaldVisser/Mining_Archaeological_Reports>.
+minion:QSEWQB2W rset:toolState rset:prototype.
+minion:QSEWQB2W rset:active 'true'.
