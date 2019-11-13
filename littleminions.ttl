@@ -3,20 +3,22 @@
 # Credits: Minions at CAA Community
 
 @prefix rset: <http://rsetools.squirrel.link#> .
+@prefix minion: <http://linkedpipes.xyz/minions#> .
 @prefix wd: <http://www.wikidata.org/entity/> .
 @prefix wdt: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 
-# Alligaor
-wd:Q74004218 a rset:Tool .
-wd:Q74004218 a rset:LittleMinion .
-wd:Q74004218 rset:name 'Alligaor'.
-wd:Q74004218 rset:wikidataid 'Q74004218'.
-wd:Q74004218 rset:description 'An ontology and web app for transforming a correspondence analyses with fixed and floating time intervals to a relative chronology and RDF representation using Allens interval algebra.'.
-wd:Q74004218 rset:author 'Florian Thiery, Allard Mees'.
-wd:Q74004218 rset:gitrepository <https://github.com/RGZM/alligator>.
-wd:Q74004218 rset:dateOfEntry '2019-11-13 8:9:8'.
-wd:Q74004218 rset:link <https://rgzm.github.io/alligator/>.
-wd:Q74004218 rset:toolState rset:prototype.
-wd:Q74004218 rset:active 'true'.
+# Alligator
+minion:XQ3N9PLM a rset:Tool .
+minion:XQ3N9PLM a rset:LittleMinion .
+minion:XQ3N9PLM owl:sameAs wd:Q74004218.
+minion:XQ3N9PLM rset:name 'Alligator'.
+minion:XQ3N9PLM rset:wikidataid 'Q74004218'.
+minion:XQ3N9PLM rset:description 'An ontology and web app for transforming a correspondence analyses with fixed and floating time intervals to a relative chronology and RDF representation using Allens interval algebra.'.
+minion:XQ3N9PLM rset:author 'Florian Thiery, Allard Mees'.
+minion:XQ3N9PLM rset:gitrepository <https://github.com/RGZM/alligator>.
+minion:XQ3N9PLM rset:dateOfEntry '2019-11-13 08:35:31'.
+minion:XQ3N9PLM rset:link <https://rgzm.github.io/alligator/>.
+minion:XQ3N9PLM rset:toolState rset:prototype.
+minion:XQ3N9PLM rset:active 'true'.
