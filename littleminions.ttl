@@ -79,3 +79,16 @@ minion:XC74QYUJ rset:dateOfEntry '2019-11-13 14:59:14'.
 minion:XC74QYUJ rset:link <http://heuristnetwork.org/>.
 minion:XC74QYUJ rset:toolState rset:published.
 minion:XC74QYUJ rset:active 'true'.
+
+# Bonify
+minion:AZ8F4A82 a rset:Tool .
+minion:AZ8F4A82 a rset:LittleMinion .
+minion:AZ8F4A82 owl:sameAs wd:Q74825324.
+minion:AZ8F4A82 rset:name 'Bonify'.
+minion:AZ8F4A82 rset:wikidataid 'Q74825324'.
+minion:AZ8F4A82 rset:description 'digital tools using Groningen University's Zooarchaeological collections'.
+minion:AZ8F4A82 rset:author 'Gary Nobles'.
+minion:AZ8F4A82 rset:dateOfEntry '2019-11-13 15:3:0'.
+minion:AZ8F4A82 rset:link <https://www.digitalbones.eu/>.
+minion:AZ8F4A82 rset:toolState rset:unknownToolStatus.
+minion:AZ8F4A82 rset:active 'true'.
