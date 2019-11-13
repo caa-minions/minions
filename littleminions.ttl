@@ -36,3 +36,18 @@ minion:3DZZHK99 rset:dateOfEntry '2019-11-13 14:36:5'.
 minion:3DZZHK99 rset:link <http://academic-meta-tool.xyz/>.
 minion:3DZZHK99 rset:toolState rset:prototype.
 minion:3DZZHK99 rset:active 'true'.
+
+# profileAAR
+minion:KPREECXS a rset:Tool .
+minion:KPREECXS a rset:LittleMinion .
+minion:KPREECXS owl:sameAs wd:Q74823867.
+minion:KPREECXS rset:name 'profileAAR'.
+minion:KPREECXS rset:wikidataid 'Q74823867'.
+minion:KPREECXS rset:description 'The plugin profileAAR transforms profile control points for fotogrammetric rectification of section images of archaeological excavations.'.
+minion:KPREECXS rset:author 'Moritz Mennenga, Christoph Rinne, Kay Schmütz'.
+minion:KPREECXS rset:gitrepository <https://github.com/ISAAKiel/profileAAR>.
+minion:KPREECXS rset:dateOfEntry '2019-11-13 14:43:49'.
+minion:KPREECXS rset:link <http://plugins.qgis.org/plugins/profileAAR/>.
+minion:KPREECXS rset:link <http://doi.org/10.5281/zenodo.3234836>.
+minion:KPREECXS rset:toolState rset:published.
+minion:KPREECXS rset:active 'true'.
