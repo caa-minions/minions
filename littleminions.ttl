@@ -86,7 +86,7 @@ minion:AZ8F4A82 a rset:LittleMinion .
 minion:AZ8F4A82 owl:sameAs wd:Q74825324.
 minion:AZ8F4A82 rset:name 'Bonify'.
 minion:AZ8F4A82 rset:wikidataid 'Q74825324'.
-minion:AZ8F4A82 rset:description 'digital tools using Groningen University's Zooarchaeological collections'.
+minion:AZ8F4A82 rset:description 'digital tools using Groningen Universitys Zooarchaeological collections'.
 minion:AZ8F4A82 rset:author 'Gary Nobles'.
 minion:AZ8F4A82 rset:dateOfEntry '2019-11-13 15:3:0'.
 minion:AZ8F4A82 rset:link <https://www.digitalbones.eu/>.
