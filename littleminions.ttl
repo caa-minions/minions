@@ -23,6 +23,20 @@ minion:XQ3N9PLM rset:link <https://rgzm.github.io/alligator/>.
 minion:XQ3N9PLM rset:toolState rset:prototype.
 minion:XQ3N9PLM rset:active 'true'.
 
+# Academic Meta Tool
+minion:3DZZHK99 a rset:Tool .
+minion:3DZZHK99 a rset:LittleMinion .
+minion:3DZZHK99 owl:sameAs wd:Q74003194.
+minion:3DZZHK99 rset:name 'Academic Meta Tool'.
+minion:3DZZHK99 rset:wikidataid 'Q74003194'.
+minion:3DZZHK99 rset:description 'An ontology and webapp for modelling vagueness in graphs including reasoning.'.
+minion:3DZZHK99 rset:author 'Martin Unold, Florian Thiery'.
+minion:3DZZHK99 rset:gitrepository <https://github.com/mainzed/academicmetatool-viewer>.
+minion:3DZZHK99 rset:dateOfEntry '2019-11-13 14:36:5'.
+minion:3DZZHK99 rset:link <http://academic-meta-tool.xyz/>.
+minion:3DZZHK99 rset:toolState rset:prototype.
+minion:3DZZHK99 rset:active 'true'.
+
 # profileAAR
 minion:KPREECXS a rset:Tool .
 minion:KPREECXS a rset:LittleMinion .
