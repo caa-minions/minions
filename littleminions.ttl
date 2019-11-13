@@ -65,3 +65,17 @@ minion:QSEWQB2W rset:dateOfEntry '2019-11-13 14:51:13'.
 minion:QSEWQB2W rset:link <https://github.com/RonaldVisser/Mining_Archaeological_Reports>.
 minion:QSEWQB2W rset:toolState rset:prototype.
 minion:QSEWQB2W rset:active 'true'.
+
+# Heurist
+minion:XC74QYUJ a rset:Tool .
+minion:XC74QYUJ a rset:LittleMinion .
+minion:XC74QYUJ owl:sameAs wd:Q5748237.
+minion:XC74QYUJ rset:name 'Heurist'.
+minion:XC74QYUJ rset:wikidataid 'Q5748237'.
+minion:XC74QYUJ rset:description 'Researcher-oriented database builder and web publisher for rich linked Humanities data'.
+minion:XC74QYUJ rset:author 'Ian Johnson / Artem Osmakov'.
+minion:XC74QYUJ rset:gitrepository <https://github.com/HeuristNetwork/heurist>.
+minion:XC74QYUJ rset:dateOfEntry '2019-11-13 14:59:14'.
+minion:XC74QYUJ rset:link <http://heuristnetwork.org/>.
+minion:XC74QYUJ rset:toolState rset:published.
+minion:XC74QYUJ rset:active 'true'.
